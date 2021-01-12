@@ -1,4 +1,5 @@
-## Lyric-based song recommendation with Doc2Vec embeddings and Spotify's API
+## Lyric-based song recommendation with Doc2Vec embeddings and Spotify's API 
+
 
 The notebook `train_example.ipynb` does the following:
 - loads data from the [musiXmatch dataset](http://millionsongdataset.com/musixmatch/)
